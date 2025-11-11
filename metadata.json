@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "A sleek, modern web application that allows users to generate stunning AI visuals from text prompts using Google's Imagen model. Features include style and size selection, and a responsive image grid.",
+  "requestFramePermissions": []
+}
